@@ -1,4 +1,4 @@
-#Soluções dos problemas do livro "Teoria e problemas de programação em C++" do autor John R. Hubbard.
+# Soluções dos problemas do livro "Teoria e problemas de programação em C++" do autor John R. Hubbard.
 
 
 
