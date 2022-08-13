@@ -5,8 +5,8 @@
 ![riquelme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzg9MJG1dMcaI-fooiDNscpBMv64C7Bh3Qw&usqp=CAU)
 
 ## Funções :
-- [ ] 5.1
-- [ ] 5.2
+- [x] 5.1
+- [x] 5.2
 - [ ] 5.3
 - [ ] 5.4
 - [ ] 5.5
