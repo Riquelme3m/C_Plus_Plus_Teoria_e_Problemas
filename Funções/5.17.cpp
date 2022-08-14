@@ -16,14 +16,9 @@ cout<<"O dígito nessa posição é : "<<digit(x1,x2)<<endl;
 }
 
 int digit(int n , int k){
-    if(k==0)return n%10;
-    if(k==1)return (n%100)/10;
-    if(k==2)return(n%1000)/100;
-    if(k==3)return(n%10000)/1000;
-    if(k==4)return(n%100000)/10000;
-    if(k==5)return(n%1000000)/100000;
-return 0;
-
+    for(int i=0;i<k;i++)
+        n=n/10;
+        return n%10;
 
 
 }
