@@ -29,9 +29,3 @@ return a;
 
 
 
-/*  q=a/b;
-        r=a%b;
-        a=b;
-        b=r;
-        q=a/b;
-        r=a%b;.. */
