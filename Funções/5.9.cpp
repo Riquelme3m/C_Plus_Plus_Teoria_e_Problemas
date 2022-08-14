@@ -1,4 +1,4 @@
-/* */
+/*Implementação de uma função que retorna a média de 4 números */
 
 #include<iostream>
 using namespace std;
