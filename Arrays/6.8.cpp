@@ -3,8 +3,8 @@
 #include<iostream>
 using namespace std;
 void imprimir(float [],int);
-float ordenar(float[],int);
-float min(float [],int );
+//float ordenar(float[],int);
+//float min(float [],int );
 float minimo(float [],int );
 
 int main(){
@@ -26,16 +26,16 @@ void imprimir(float a[], int n){
 }
 
 
-float ordenar(float a[],int n){
+/*float ordenar(float a[],int n){
     for(int i=0;i<n-1;i++){
         for(int j=0;j<n-1;j++)
         if(a[j]>a[j+1])swap(a[j],a[j+1]);}
         return 0;
-    }
+    }*/
     
     
-float min(float a[],int n){
-    return a[0];
+/*float min(float a[],int n){
+    return a[0];*/
 }
 float minimo(float a[],int n){
     int menor=a[0];
