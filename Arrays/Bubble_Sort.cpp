@@ -5,8 +5,8 @@ void sort(float[],int);
 
 int main(){
   
-float a[]={55.5,22.5,99.9,66.6,44.4,88.8,33.3,77.7};
-sort(a,8);
+float a[]={55.5,22.5,3.0};
+sort(a,3);
 
 
 
