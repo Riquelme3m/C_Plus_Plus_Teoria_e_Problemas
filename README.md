@@ -33,8 +33,21 @@
 - [x] 5.26
 
 ## Arrays  :
-
-
+- [x] Algoritmo Bubble Sort
+- [x] Algoritmo de Pesquisa Binária
+- [x] Questionário de Estudantes
+- [x] Lendo um array tridimensional e contado o número de zeros.
+- [x] 6.8
+- [x] 6.9
+- [x] 6.10
+- [x] 6.11
+- [x] 6.12
+- [x] 6.13
+- [x] 6.21
+- [x] 6.23
+- [x] 6.25
+- [x] 6.27
+- [x] 6.32
 
 
 
