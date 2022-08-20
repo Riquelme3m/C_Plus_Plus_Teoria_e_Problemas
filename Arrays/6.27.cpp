@@ -1,4 +1,4 @@
-//Implementação de uma função que soma os dois valores de um vetor com o mesmo número de elementos n;
+//Implementação de uma função que calcula o produto escalar de dois vetores
 #include<iostream>
 
 using namespace std;
