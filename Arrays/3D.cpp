@@ -1,4 +1,4 @@
-//Lendo um array de 3 dimensões
+//Lendo um Vetor de 3 Dimensões
 #include<iostream>
 using namespace std;
 int numZeros(int a[][4][3],int n1,int n2,int n3);
