@@ -17,7 +17,7 @@ int main(){
 void adicionar(float a[],int n,float b[]){
 
 for(int i=0;i<n;i++){
-    a[i]+=b[i];
+    a[i]=a[i]+b[i];
 }
 
 for(int i=0;i<n;i++){
